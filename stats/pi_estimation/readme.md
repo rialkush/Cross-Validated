@@ -1,0 +1,5 @@
+We can estimate the value of Pi by means of a Monte Carlo method. From high school math, we know that the area of a Circle is 2 * PI * r^2, and the area of a square with the same radius 4 * PI * r^2. Taking the ratio of these these two quantities gives us PI / 4. In other words, PI = 4 * (Area of a Cricle) / Area of a Square).
+
+On the left hand side a circle and square. By placing points at random in this area, all the points will fall into the square but not all of the points will fall into the circle. Given enough points, this ratio can be used to estimate the value of PI using the above formulas.
+
+Hit the start button to begin estimating the value of PI. The lineplot to the right tracks the error from the real value of PI. The more points thrown randomly into the square, the better approximation we get over time.
